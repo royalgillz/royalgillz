@@ -123,6 +123,78 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 59 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌆 Daytime                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+🌃 Evening                36 commits          ███████████████░░░░░░░░░░   61.02 % 
+🌙 Night                  15 commits          ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   31 commits          █████████████░░░░░░░░░░░░   52.54 % 
+Saturday                 18 commits          ████████░░░░░░░░░░░░░░░░░   30.51 % 
+Sunday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Ruby                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/03/2026 23:02:29 UTC
 <!--END_SECTION:waka-->
 
 ---
