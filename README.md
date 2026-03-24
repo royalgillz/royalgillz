@@ -123,8 +123,6 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -194,7 +192,7 @@ JavaScript               1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2026 02:46:18 UTC
+ Last Updated on 24/03/2026 02:37:47 UTC
 <!--END_SECTION:waka-->
 
 ---
