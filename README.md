@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -131,7 +131,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2026
+> 🏆 88 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,21 +142,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-🌆 Daytime                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-🌃 Evening                39 commits          ███████████████░░░░░░░░░░   58.21 % 
-🌙 Night                  15 commits          ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+🌆 Daytime                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+🌃 Evening                36 commits          ██████████████░░░░░░░░░░░   56.25 % 
+🌙 Night                  15 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   36 commits          █████████████░░░░░░░░░░░░   53.73 % 
-Saturday                 18 commits          ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Sunday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Friday                   36 commits          ██████████████░░░░░░░░░░░   56.25 % 
+Saturday                 15 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Sunday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 ```
 
 
@@ -189,11 +189,10 @@ Windows                  2 hrs 21 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Ruby                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Ruby                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
@@ -203,7 +202,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2026 03:17:32 UTC
+ Last Updated on 31/03/2026 02:51:39 UTC
 <!--END_SECTION:waka-->
 
 ---
