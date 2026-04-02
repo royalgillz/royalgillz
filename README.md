@@ -131,7 +131,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 104 Contributions in the Year 2026
+> 🏆 105 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,24 +166,23 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        ███████████░░░░░░░░░░░░░░   42.55 % 
-C++                      51 mins             ████████░░░░░░░░░░░░░░░░░   30.18 % 
-Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+C++                      51 mins             ██████████░░░░░░░░░░░░░░░   39.09 % 
+Markdown                 33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-Cursor                   1 hr 39 mins        ██████████████░░░░░░░░░░░   57.96 % 
-VS Code                  1 hr 11 mins        ███████████░░░░░░░░░░░░░░   42.04 % 
+Cursor                   1 hr 39 mins        ███████████████████░░░░░░   75.07 % 
+VS Code                  32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 48 mins        ████████████████░░░░░░░░░   63.53 % 
-mason-enterprise-jobs    31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Langchain-Tutorial       19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Tech-Jobs                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Unknown Project          1 hr 20 mins        ███████████████░░░░░░░░░░   61.25 % 
+mason-enterprise-jobs    31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Langchain-Tutorial       19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 
 💻 Operating System: 
-Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -202,7 +201,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2026 03:21:39 UTC
+ Last Updated on 02/04/2026 02:47:49 UTC
 <!--END_SECTION:waka-->
 
 ---
