@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -166,23 +166,23 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      51 mins             ██████████░░░░░░░░░░░░░░░   39.09 % 
-Markdown                 33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Markdown                 33 mins             ████████████░░░░░░░░░░░░░   46.24 % 
+Python                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Git Config               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+TypeScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Cursor                   1 hr 39 mins        ███████████████████░░░░░░   75.07 % 
-VS Code                  32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+Cursor                   40 mins             ██████████████░░░░░░░░░░░   54.96 % 
+VS Code                  32 mins             ███████████░░░░░░░░░░░░░░   45.04 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 20 mins        ███████████████░░░░░░░░░░   61.25 % 
-mason-enterprise-jobs    31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Langchain-Tutorial       19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+mason-enterprise-jobs    31 mins             ███████████░░░░░░░░░░░░░░   43.38 % 
+Unknown Project          21 mins             ████████░░░░░░░░░░░░░░░░░   30.01 % 
+Langchain-Tutorial       19 mins             ███████░░░░░░░░░░░░░░░░░░   26.61 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -201,7 +201,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 02:47:49 UTC
+ Last Updated on 03/04/2026 02:50:32 UTC
 <!--END_SECTION:waka-->
 
 ---
