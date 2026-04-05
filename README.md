@@ -166,24 +166,23 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   40.17 % 
-Markdown                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Python                   55 mins             ██████████░░░░░░░░░░░░░░░   38.99 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 19 mins       ████████████████████░░░░░   80.93 % 
-VS Code                  32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Cursor                   2 hrs 11 mins       ███████████████████████░░   92.31 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 15 mins        ███████████░░░░░░░░░░░░░░   43.50 % 
-agentmaster_v2           46 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-mason-enterprise-jobs    31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Langchain-Tutorial       19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Unknown Project          1 hr 4 mins         ███████████░░░░░░░░░░░░░░   45.08 % 
+agentmaster_v2           46 mins             ████████░░░░░░░░░░░░░░░░░   32.61 % 
+mason-enterprise-jobs    31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
 
 💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -202,7 +201,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 02:40:31 UTC
+ Last Updated on 05/04/2026 03:16:59 UTC
 <!--END_SECTION:waka-->
 
 ---
