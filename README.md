@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -131,7 +131,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 134 Contributions in the Year 2026
+> 🏆 154 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,23 +166,23 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.07 % 
-Other                    1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-TypeScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Python                   2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Other                    1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+TypeScript               1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 24 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mason-enterprise-jobs    2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
-Unknown Project          2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.65 % 
-agentmaster_v2           1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+mason-enterprise-jobs    3 hrs 38 mins       ████████████░░░░░░░░░░░░░   48.69 % 
+Unknown Project          2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+agentmaster_v2           1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  6 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -201,7 +201,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 03:23:35 UTC
+ Last Updated on 13/04/2026 03:30:29 UTC
 <!--END_SECTION:waka-->
 
 ---
