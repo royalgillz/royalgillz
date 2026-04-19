@@ -166,26 +166,24 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Other                    2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-TypeScript               1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-CSS                      1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+JavaScript               2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
+CSS                      1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+TypeScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 50 mins       ██████████████████████░░░   89.97 % 
-Unknown Editor           58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Cursor                   5 hrs 44 mins       █████████████████████░░░░   83.95 % 
+Unknown Editor           58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🐱‍💻 Projects: 
-mason-enterprise-jobs    4 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
-BabaFaridCollege         4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.78 % 
-agentmaster_v2           1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Raja-Furniture           1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+BabaFaridCollege         4 hrs 1 min         ███████████████░░░░░░░░░░   58.82 % 
+mason-enterprise-jobs    1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Raja-Furniture           1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 
 💻 Operating System: 
-Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -204,7 +202,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 02:53:16 UTC
+ Last Updated on 19/04/2026 03:28:30 UTC
 <!--END_SECTION:waka-->
 
 ---
