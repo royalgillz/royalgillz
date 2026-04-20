@@ -131,7 +131,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 192 Contributions in the Year 2026
+> 🏆 199 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,21 +142,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                34 commits          ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-🌆 Daytime                29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-🌃 Evening                41 commits          ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+🌞 Morning                41 commits          ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌆 Daytime                29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+🌃 Evening                41 commits          ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Tuesday                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Friday                   44 commits          █████████░░░░░░░░░░░░░░░░   35.20 % 
-Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Tuesday                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Friday                   44 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Sunday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 ```
 
 
@@ -166,24 +166,24 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-CSS                      1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-TypeScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+JavaScript               2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.89 % 
+CSS                      1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 44 mins       █████████████████████░░░░   83.95 % 
-Unknown Editor           58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Cursor                   4 hrs 36 mins       ████████████████████░░░░░   80.78 % 
+Unknown Editor           58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🐱‍💻 Projects: 
-BabaFaridCollege         4 hrs 1 min         ███████████████░░░░░░░░░░   58.82 % 
-mason-enterprise-jobs    1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-Raja-Furniture           1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+BabaFaridCollege         4 hrs 1 min         ██████████████████░░░░░░░   70.44 % 
+Raja-Furniture           1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+mason-enterprise-jobs    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 
 💻 Operating System: 
-Windows                  6 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +202,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 03:28:30 UTC
+ Last Updated on 20/04/2026 03:30:54 UTC
 <!--END_SECTION:waka-->
 
 ---
