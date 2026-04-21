@@ -166,24 +166,24 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.89 % 
-CSS                      1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JavaScript               1 hr 20 mins        ████████████░░░░░░░░░░░░░   47.15 % 
+CSS                      46 mins             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Git Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 36 mins       ████████████████████░░░░░   80.78 % 
-Unknown Editor           58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Cursor                   1 hr 43 mins        ███████████████░░░░░░░░░░   61.21 % 
+Unknown Editor           58 mins             █████████░░░░░░░░░░░░░░░░   34.52 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🐱‍💻 Projects: 
-BabaFaridCollege         4 hrs 1 min         ██████████████████░░░░░░░   70.44 % 
-Raja-Furniture           1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-mason-enterprise-jobs    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+BabaFaridCollege         1 hr 40 mins        ███████████████░░░░░░░░░░   59.13 % 
+Raja-Furniture           1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   38.79 % 
+mason-enterprise-jobs    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Windows                  5 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +202,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2026 03:30:54 UTC
+ Last Updated on 21/04/2026 03:22:35 UTC
 <!--END_SECTION:waka-->
 
 ---
