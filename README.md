@@ -131,7 +131,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2026
+> 🏆 206 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,24 +166,16 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               1 hr 20 mins        ████████████░░░░░░░░░░░░░   47.15 % 
-CSS                      46 mins             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Git Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 43 mins        ███████████████░░░░░░░░░░   61.21 % 
-Unknown Editor           58 mins             █████████░░░░░░░░░░░░░░░░   34.52 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BabaFaridCollege         1 hr 40 mins        ███████████████░░░░░░░░░░   59.13 % 
-Raja-Furniture           1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   38.79 % 
-mason-enterprise-jobs    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +194,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 03:22:35 UTC
+ Last Updated on 22/04/2026 03:21:07 UTC
 <!--END_SECTION:waka-->
 
 ---
