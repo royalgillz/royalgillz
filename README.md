@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -131,11 +131,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 224 Contributions in the Year 2026
+> 🏆 226 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -166,16 +166,21 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               17 mins             █████████████░░░░░░░░░░░░   53.04 % 
+CSS                      12 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           18 mins             ██████████████░░░░░░░░░░░   55.93 % 
+VS Code                  14 mins             ███████████░░░░░░░░░░░░░░   44.07 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BabaFaridCollege         33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -194,7 +199,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2026 03:42:11 UTC
+ Last Updated on 29/04/2026 03:40:01 UTC
 <!--END_SECTION:waka-->
 
 ---
