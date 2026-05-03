@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -131,7 +131,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 226 Contributions in the Year 2026
+> 🏆 230 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,21 +142,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                41 commits          ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-🌆 Daytime                45 commits          ████████░░░░░░░░░░░░░░░░░   30.41 % 
-🌃 Evening                41 commits          ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+🌞 Morning                43 commits          ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+🌆 Daytime                45 commits          ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+🌃 Evening                41 commits          ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+🌙 Night                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Friday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Sunday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Friday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Saturday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
 ```
 
 
@@ -166,35 +166,36 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   6 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.10 % 
-Markdown                 1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-JavaScript               1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Python                   6 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.62 % 
+Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Kotlin                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+TOML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-Unknown Editor           10 hrs 23 mins      █████████████████████░░░░   83.74 % 
-VS Code                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Cursor                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Unknown Editor           9 hrs 57 mins       ███████████████████░░░░░░   76.29 % 
+Cursor                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+VS Code                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 
 🐱‍💻 Projects: 
-BabaFaridCollege         3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-CloudLabs                2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-agentmaster_v2           2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Yoodli Automation        1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Unknown Project          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+CloudLabs                2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+agentmaster_v2           2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Lumen                    2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+BabaFaridCollege         2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Yoodli Automation        56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 💻 Operating System: 
-Windows                  12 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
-TypeScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Ruby                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -204,7 +205,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 03:27:15 UTC
+ Last Updated on 03/05/2026 03:47:28 UTC
 <!--END_SECTION:waka-->
 
 ---
