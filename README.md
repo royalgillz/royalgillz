@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -166,26 +166,26 @@ Sunday                   38 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   8 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.38 % 
-Python                   2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-TOML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Git Config               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Kotlin                   8 hrs 42 mins       ████████████░░░░░░░░░░░░░   49.95 % 
+Python                   2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+TOML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Git Config               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 Editors: 
-Unknown Editor           9 hrs 9 mins        █████████████░░░░░░░░░░░░   50.91 % 
-Cursor                   7 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.05 % 
-VS Code                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Unknown Editor           8 hrs 50 mins       █████████████░░░░░░░░░░░░   50.75 % 
+Cursor                   7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.38 % 
+VS Code                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🐱‍💻 Projects: 
-Lumen                    12 hrs 40 mins      ██████████████████░░░░░░░   70.40 % 
-agentmaster_v2           2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Unknown Project          1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Yoodli Automation        56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-BabaFaridCollege         34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Lumen                    12 hrs 40 mins      ██████████████████░░░░░░░   72.68 % 
+agentmaster_v2           2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Unknown Project          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Yoodli Automation        56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+terminals                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  17 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +205,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2026 03:29:18 UTC
+ Last Updated on 06/05/2026 03:40:47 UTC
 <!--END_SECTION:waka-->
 
 ---
