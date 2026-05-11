@@ -166,26 +166,26 @@ Sunday                   38 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   7 hrs 37 mins       ██████████████████░░░░░░░   73.57 % 
-Git Config               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-XML                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Kotlin                   4 hrs 3 mins        █████████████████░░░░░░░░   68.65 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Git Config               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 44 mins       ██████████████░░░░░░░░░░░   55.51 % 
-Unknown Editor           4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.07 % 
-VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Cursor                   5 hrs 27 mins       ███████████████████████░░   92.15 % 
+Unknown Editor           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🐱‍💻 Projects: 
-Lumen                    10 hrs 10 mins      █████████████████████████   98.18 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-search                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-pdf                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Lumen                    5 hrs 52 mins       █████████████████████████   99.15 % 
+search                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+theme                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +205,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2026 03:50:25 UTC
+ Last Updated on 11/05/2026 04:01:14 UTC
 <!--END_SECTION:waka-->
 
 ---
