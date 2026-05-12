@@ -166,26 +166,16 @@ Sunday                   38 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 3 mins        █████████████████░░░░░░░░   68.65 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Git Config               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   5 hrs 27 mins       ███████████████████████░░   92.15 % 
-Unknown Editor           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Lumen                    5 hrs 52 mins       █████████████████████████   99.15 % 
-search                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-theme                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +195,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2026 04:01:14 UTC
+ Last Updated on 12/05/2026 03:44:41 UTC
 <!--END_SECTION:waka-->
 
 ---
