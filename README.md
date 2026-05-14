@@ -139,45 +139,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                47 commits          ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-🌆 Daytime                49 commits          ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌃 Evening                44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-🌙 Night                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Wednesday                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Friday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -195,7 +156,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 03:53:47 UTC
+ Last Updated on 14/05/2026 03:53:26 UTC
 <!--END_SECTION:waka-->
 
 ---
