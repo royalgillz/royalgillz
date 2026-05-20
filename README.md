@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -139,45 +139,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                47 commits          ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-🌆 Daytime                49 commits          ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌃 Evening                44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-🌙 Night                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Wednesday                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Friday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-JavaScript               1 min               █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Yoodli Automation        1 min               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -195,7 +156,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 04:04:00 UTC
+ Last Updated on 20/05/2026 04:04:46 UTC
 <!--END_SECTION:waka-->
 
 ---
