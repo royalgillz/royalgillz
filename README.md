@@ -166,26 +166,24 @@ Sunday                   38 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 30 mins       █████████████████░░░░░░░░   68.45 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Python                   2 hrs 22 mins       ███████████████████░░░░░░   75.08 % 
+JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 18 mins       ████████████████████░░░░░   80.53 % 
-Claude Code              53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Cursor                   2 hrs 55 mins       ███████████████████████░░   92.81 % 
+Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 🐱‍💻 Projects: 
-agentmaster_v2           5 hrs 2 mins        ███████████████████░░░░░░   76.64 % 
-Unknown Project          45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Yoodli Automation        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-v7                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-gold_nbi_bridge_L1-L5_2021 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+agentmaster_v2           2 hrs 24 mins       ███████████████████░░░░░░   76.48 % 
+Unknown Project          42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+v7                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+gold_nbi_bridge_L1-L5_2021 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +203,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 04:04:33 UTC
+ Last Updated on 27/05/2026 04:18:20 UTC
 <!--END_SECTION:waka-->
 
 ---
