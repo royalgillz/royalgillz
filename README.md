@@ -166,24 +166,23 @@ Sunday                   38 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ███████████████████░░░░░░   75.08 % 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   1 hr 16 mins        ████████████████░░░░░░░░░   65.63 % 
+JSON                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 55 mins       ███████████████████████░░   92.81 % 
-Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Cursor                   1 hr 54 mins        █████████████████████████   98.37 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-agentmaster_v2           2 hrs 24 mins       ███████████████████░░░░░░   76.48 % 
-Unknown Project          42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-v7                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-gold_nbi_bridge_L1-L5_2021 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+agentmaster_v2           1 hr 14 mins        ████████████████░░░░░░░░░   63.84 % 
+Unknown Project          40 mins             █████████░░░░░░░░░░░░░░░░   35.16 % 
+gold_nbi_bridge_L1-L5_2021 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,7 +202,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 04:18:20 UTC
+ Last Updated on 28/05/2026 04:07:12 UTC
 <!--END_SECTION:waka-->
 
 ---
