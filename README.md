@@ -123,8 +123,6 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -139,52 +137,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                47 commits          ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-🌆 Daytime                49 commits          ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌃 Evening                44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-🌙 Night                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Wednesday                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Friday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Python                   1 hr 16 mins        ████████████████░░░░░░░░░   65.63 % 
-JSON                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-
-🔥 Editors: 
-Cursor                   1 hr 54 mins        █████████████████████████   98.37 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-
-🐱‍💻 Projects: 
-agentmaster_v2           1 hr 14 mins        ████████████████░░░░░░░░░   63.84 % 
-Unknown Project          40 mins             █████████░░░░░░░░░░░░░░░░   35.16 % 
-gold_nbi_bridge_L1-L5_2021 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -202,7 +154,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 04:07:12 UTC
+ Last Updated on 29/05/2026 04:09:17 UTC
 <!--END_SECTION:waka-->
 
 ---
