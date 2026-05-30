@@ -123,13 +123,15 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2051%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 241 Contributions in the Year 2026
+> 🏆 247 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -137,6 +139,54 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                47 commits          ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌆 Daytime                52 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌃 Evening                47 commits          ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌙 Night                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Wednesday                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Friday                   48 commits          ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Sunday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Python                   42 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+JavaScript               34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+JSON                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+
+🔥 Editors: 
+Cursor                   1 hr 1 min          ██████████░░░░░░░░░░░░░░░   39.55 % 
+Claude Code              57 mins             █████████░░░░░░░░░░░░░░░░   37.08 % 
+VS Code                  36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+
+🐱‍💻 Projects: 
+vianova-voice-agent      1 hr 36 mins        ███████████████░░░░░░░░░░   61.93 % 
+agentmaster_v2           55 mins             █████████░░░░░░░░░░░░░░░░   35.49 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+gold_nbi_bridge_L1-L5_2021 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+
+💻 Operating System: 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -154,7 +204,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 04:09:17 UTC
+ Last Updated on 30/05/2026 03:55:27 UTC
 <!--END_SECTION:waka-->
 
 ---
