@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -142,21 +142,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                53 commits          ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-🌆 Daytime                71 commits          █████████░░░░░░░░░░░░░░░░   35.15 % 
-🌃 Evening                53 commits          ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌞 Morning                53 commits          ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌆 Daytime                71 commits          █████████░░░░░░░░░░░░░░░░   34.80 % 
+🌃 Evening                55 commits          ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Wednesday                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Friday                   52 commits          ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Saturday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Sunday                   43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Wednesday                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Friday                   52 commits          ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Saturday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Sunday                   45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
 ```
 
 
@@ -166,26 +166,24 @@ Sunday                   43 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
-JavaScript               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Kotlin                   5 hrs 1 min         ██████████████░░░░░░░░░░░   55.32 % 
+JavaScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 31 mins       █████████████░░░░░░░░░░░░   53.30 % 
-Claude Code              1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
-VS Code                  1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Cursor                   5 hrs 11 mins       ██████████████░░░░░░░░░░░   57.10 % 
+Claude Code              2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+VS Code                  1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 
 🐱‍💻 Projects: 
-vianova-voice-agent      3 hrs 11 mins       ████████████░░░░░░░░░░░░░   48.36 % 
-Lumen                    2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.57 % 
-agentmaster_v2           39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-gold_nbi_bridge_L1-L5_2021 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Lumen                    5 hrs 51 mins       ████████████████░░░░░░░░░   64.41 % 
+vianova-voice-agent      3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.07 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +203,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 04:20:33 UTC
+ Last Updated on 01/06/2026 04:49:21 UTC
 <!--END_SECTION:waka-->
 
 ---
