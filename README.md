@@ -123,7 +123,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -131,7 +131,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 252 Contributions in the Year 2026
+> 🏆 255 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,24 +166,24 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   5 hrs 1 min         ██████████████░░░░░░░░░░░   55.32 % 
-JavaScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Kotlin                   5 hrs 52 mins       █████████████░░░░░░░░░░░░   53.50 % 
+JavaScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 11 mins       ██████████████░░░░░░░░░░░   57.10 % 
-Claude Code              2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-VS Code                  1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Cursor                   6 hrs 39 mins       ███████████████░░░░░░░░░░   60.71 % 
+Claude Code              2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+VS Code                  1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 
 🐱‍💻 Projects: 
-Lumen                    5 hrs 51 mins       ████████████████░░░░░░░░░   64.41 % 
-vianova-voice-agent      3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.07 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Lumen                    7 hrs 43 mins       ██████████████████░░░░░░░   70.47 % 
+vianova-voice-agent      3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Windows                  9 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,7 +203,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2026 04:49:21 UTC
+ Last Updated on 02/06/2026 04:38:25 UTC
 <!--END_SECTION:waka-->
 
 ---
