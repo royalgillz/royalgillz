@@ -131,11 +131,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 279 Contributions in the Year 2026
+> 🏆 282 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -189,11 +189,11 @@ Windows                  11 hrs 55 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Ruby                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -203,7 +203,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 04:42:02 UTC
+ Last Updated on 05/06/2026 04:15:47 UTC
 <!--END_SECTION:waka-->
 
 ---
