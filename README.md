@@ -123,8 +123,6 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2024%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -142,11 +140,11 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Ruby                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               5 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -156,7 +154,7 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 03:58:48 UTC
+ Last Updated on 07/06/2026 04:25:13 UTC
 <!--END_SECTION:waka-->
 
 ---
