@@ -123,6 +123,8 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -137,6 +139,52 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                53 commits          ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌆 Daytime                71 commits          █████████░░░░░░░░░░░░░░░░   34.80 % 
+🌃 Evening                55 commits          ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Wednesday                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Friday                   52 commits          ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Saturday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Sunday                   45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+TypeScript               11 hrs 18 mins      ███████████████░░░░░░░░░░   58.81 % 
+Markdown                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Other                    2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Kotlin                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+
+🔥 Editors: 
+Cursor                   17 hrs 12 mins      ██████████████████████░░░   89.53 % 
+Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+VS Code                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+
+🐱‍💻 Projects: 
+alpha-peptide-labs       16 hrs 23 mins      █████████████████████░░░░   85.29 % 
+Lumen                    2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+
+💻 Operating System: 
+Windows                  19 hrs 13 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -154,7 +202,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 04:25:13 UTC
+ Last Updated on 08/06/2026 04:41:01 UTC
 <!--END_SECTION:waka-->
 
 ---
