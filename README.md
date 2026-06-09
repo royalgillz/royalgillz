@@ -166,23 +166,23 @@ Sunday                   45 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               11 hrs 18 mins      ███████████████░░░░░░░░░░   58.81 % 
-Markdown                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Other                    2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Kotlin                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               11 hrs 18 mins      ████████████████░░░░░░░░░   65.14 % 
+Markdown                 2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Other                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Kotlin                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 12 mins      ██████████████████████░░░   89.53 % 
-Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-VS Code                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Cursor                   15 hrs 44 mins      ███████████████████████░░   90.74 % 
+Claude Code              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🐱‍💻 Projects: 
-alpha-peptide-labs       16 hrs 23 mins      █████████████████████░░░░   85.29 % 
-Lumen                    2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+alpha-peptide-labs       16 hrs 23 mins      ████████████████████████░   94.47 % 
+Lumen                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 💻 Operating System: 
-Windows                  19 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +202,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 04:41:01 UTC
+ Last Updated on 09/06/2026 04:01:49 UTC
 <!--END_SECTION:waka-->
 
 ---
