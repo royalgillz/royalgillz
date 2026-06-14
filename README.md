@@ -29,8 +29,9 @@
 
 ## 🧠 About Me
 
-- 🎓 **M.S. Computer Science @ George Mason University** - GPA 3.87 | Dean's List Fall '24 & Spring '25 | Graduating May 2026
+- 🎓 **M.S. Computer Science @ George Mason University** - GPA 4.0 | Dean's List Fall '24 & Spring '25 | Graduated May 2026
 - 🔬 **Research Assistant** under Dr. Duoduo Liao - deep learning for subsurface concrete defect detection using USW, IE, GPR & HCP signals
+- 🔬 **Research @ GMU** — multi-agent **text-to-SQL** benchmark across OpenAI / Anthropic / Ollama models.
 - 🤖 **AI Engineer @ MITRE-Sponsored Capstone** - built LLM-powered insider-threat simulation using NVIDIA LLaMA-3.1-Nemotron-70B
 - 🏗️ Led a 7-member team at **Xebia**, shipping a full-stack app with **30% faster loads** and **95% automated test coverage**
 - 🌍 CS UK Study Abroad alum - explored AI governance, cryptography, and global tech systems through an ethics-forward lens
