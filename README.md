@@ -124,7 +124,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -167,26 +167,26 @@ Sunday                   52 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 1 min         ██████████████████░░░░░░░   70.93 % 
-JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
+JavaScript               2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        ████████████████░░░░░░░░░   64.64 % 
-Claude Code              58 mins             ████████░░░░░░░░░░░░░░░░░   33.88 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+VS Code                  5 hrs 46 mins       █████████████████████░░░░   85.10 % 
+Claude Code              58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🐱‍💻 Projects: 
-Yoodli Automation        2 hrs 14 mins       ████████████████████░░░░░   78.32 % 
-agentmaster_v2           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Logicoach Automation     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-alpha-peptide-labs       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+SQL_Agent                3 hrs 37 mins       █████████████░░░░░░░░░░░░   53.37 % 
+Yoodli Automation        2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
+NameBlur                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+agentmaster_v2           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Logicoach Automation     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 💻 Operating System: 
-Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -206,7 +206,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 04:45:18 UTC
+ Last Updated on 15/06/2026 05:00:13 UTC
 <!--END_SECTION:waka-->
 
 ---
