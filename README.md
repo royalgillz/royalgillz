@@ -132,32 +132,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 509 Contributions in the Year 2026
+> 🏆 524 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-🌆 Daytime                106 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
-🌃 Evening                63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-🌙 Night                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌞 Morning                64 commits          █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+🌆 Daytime                107 commits         █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌃 Evening                76 commits          ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+🌙 Night                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Wednesday                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Thursday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Friday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Saturday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Sunday                   63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Monday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Friday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Saturday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Sunday                   67 commits          ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
 ```
 
 
@@ -190,11 +190,11 @@ Windows                  17 hrs 52 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
@@ -204,7 +204,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 19:28:07 UTC
+ Last Updated on 18/06/2026 04:39:24 UTC
 <!--END_SECTION:waka-->
 
 ---
