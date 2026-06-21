@@ -124,7 +124,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -132,7 +132,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 544 Contributions in the Year 2026
+> 🏆 545 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -167,25 +167,25 @@ Sunday                   67 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-Markdown                 6 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-JavaScript               2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   10 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.05 % 
+Markdown                 8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+JavaScript               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+TypeScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 57 mins      ███████████████████████░░   90.70 % 
-Claude Code              2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+VS Code                  27 hrs 56 mins      ████████████████████████░   94.38 % 
+Claude Code              1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-Sehaj-Gill-Portfolio     6 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-sg-links                 3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-har-smartphone-imu       1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-NameBlur                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Py Project               8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Sehaj-Gill-Portfolio     7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+SQL_Agent                6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+sg-links                 3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+har-smartphone-imu       2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 💻 Operating System: 
-Windows                  23 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  29 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -205,7 +205,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 04:11:01 UTC
+ Last Updated on 21/06/2026 04:52:53 UTC
 <!--END_SECTION:waka-->
 
 ---
