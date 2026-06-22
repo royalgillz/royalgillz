@@ -124,7 +124,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -132,32 +132,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 545 Contributions in the Year 2026
+> 🏆 557 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                64 commits          █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-🌆 Daytime                107 commits         █████████░░░░░░░░░░░░░░░░   36.77 % 
-🌃 Evening                76 commits          ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-🌙 Night                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+🌞 Morning                63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+🌆 Daytime                109 commits         █████████░░░░░░░░░░░░░░░░   36.95 % 
+🌃 Evening                79 commits          ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+🌙 Night                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Friday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Saturday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   67 commits          ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Thursday                 64 commits          █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Friday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Sunday                   64 commits          █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 ```
 
 
@@ -167,35 +167,35 @@ Sunday                   67 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   10 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.05 % 
-Markdown                 8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-JavaScript               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-TypeScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Markdown                 11 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Python                   10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+TypeScript               5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+JavaScript               3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Astro                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 56 mins      ████████████████████████░   94.38 % 
-Claude Code              1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+VS Code                  27 hrs 48 mins      █████████████████░░░░░░░░   69.93 % 
+Claude Code              11 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   30.07 % 
 
 🐱‍💻 Projects: 
-Py Project               8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Sehaj-Gill-Portfolio     7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-SQL_Agent                6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-sg-links                 3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-har-smartphone-imu       2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Sehaj-Gill-Portfolio     10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+Py Project               8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Union-Loan               6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+SQL_Agent                6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+sg-links                 3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 💻 Operating System: 
-Windows                  29 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -205,7 +205,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 04:52:53 UTC
+ Last Updated on 22/06/2026 05:01:23 UTC
 <!--END_SECTION:waka-->
 
 ---
