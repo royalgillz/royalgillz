@@ -167,25 +167,25 @@ Sunday                   64 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 15 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
-TypeScript               13 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Python                   5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-JavaScript               4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Other                    1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+TypeScript               13 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Markdown                 11 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Python                   4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+JavaScript               2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Astro                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 18 mins      ██████████████░░░░░░░░░░░   57.30 % 
-VS Code                  21 hrs 6 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
+Claude Code              28 hrs 10 mins      █████████████████░░░░░░░░   69.24 % 
+VS Code                  12 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   30.76 % 
 
 🐱‍💻 Projects: 
-Sehaj-Gill-Portfolio     11 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-rent-management          10 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-SQL_Agent                7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Union-Loan               6 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Clarion-AI               5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sehaj-Gill-Portfolio     11 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+rent-management          10 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Union-Loan               6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+SQL_Agent                6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Clarion-AI               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 
 💻 Operating System: 
-Windows                  49 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -205,7 +205,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 04:03:46 UTC
+ Last Updated on 26/06/2026 04:11:09 UTC
 <!--END_SECTION:waka-->
 
 ---
