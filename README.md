@@ -132,32 +132,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 575 Contributions in the Year 2026
+> 🏆 643 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌆 Daytime                114 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
-🌃 Evening                90 commits          ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-🌙 Night                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+🌞 Morning                69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌆 Daytime                138 commits         ██████████░░░░░░░░░░░░░░░   39.77 % 
+🌃 Evening                96 commits          ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Thursday                 64 commits          █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Friday                   59 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Sunday                   64 commits          █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Sunday                   69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 ```
 
 
@@ -167,35 +167,35 @@ Sunday                   64 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               11 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   35.87 % 
-Markdown                 9 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-Python                   3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-JavaScript               2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+TypeScript               11 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.10 % 
+Markdown                 8 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+Python                   3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+JavaScript               2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 48 mins      ████████████████████░░░░░   80.87 % 
-VS Code                  6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Claude Code              26 hrs 39 mins      █████████████████████░░░░   83.13 % 
+VS Code                  5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 
 🐱‍💻 Projects: 
-rent-management          10 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   32.52 % 
-Union-Loan               6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Clarion-AI               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Sehaj-Gill-Portfolio     5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-SQL_Agent                5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+rent-management          10 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   33.63 % 
+Union-Loan               6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Clarion-AI               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+SQL_Agent                5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Sehaj-Gill-Portfolio     4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 
 💻 Operating System: 
-Windows                  33 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  32 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Apex                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -205,7 +205,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2026 03:57:08 UTC
+ Last Updated on 28/06/2026 04:19:22 UTC
 <!--END_SECTION:waka-->
 
 ---
