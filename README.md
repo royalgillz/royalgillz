@@ -132,32 +132,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 672 Contributions in the Year 2026
+> 🏆 682 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                82 commits          █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-🌆 Daytime                143 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
-🌃 Evening                96 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-🌙 Night                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+🌞 Morning                69 commits          █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+🌆 Daytime                124 commits         ██████████░░░░░░░░░░░░░░░   38.04 % 
+🌃 Evening                89 commits          ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Sunday                   98 commits          ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Friday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Sunday                   69 commits          █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
 ```
 
 
@@ -167,35 +167,30 @@ Sunday                   98 commits          ███████░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               7 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-Markdown                 5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-JavaScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               1 hr 58 mins        ███████████████░░░░░░░░░░   61.90 % 
+Markdown                 53 mins             ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+SQL                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 18 mins      ███████████████████████░░   90.69 % 
-VS Code                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Claude Code              3 hrs 6 mins        ████████████████████████░   97.63 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-rent-management          10 hrs 47 mins      ███████████████░░░░░░░░░░   59.98 % 
-Clarion-AI               4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-SQL_Agent                1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Sehaj-Gill-Portfolio     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-pdf-translator-main-Japan1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+rent-management          3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Apex                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
@@ -205,7 +200,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 04:26:11 UTC
+ Last Updated on 30/06/2026 04:05:59 UTC
 <!--END_SECTION:waka-->
 
 ---
