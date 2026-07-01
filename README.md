@@ -167,20 +167,16 @@ Sunday                   69 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 58 mins        ███████████████░░░░░░░░░░   61.90 % 
-Markdown                 53 mins             ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-SQL                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              3 hrs 6 mins        ████████████████████████░   97.63 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rent-management          3 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -200,7 +196,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 04:05:59 UTC
+ Last Updated on 01/07/2026 04:21:54 UTC
 <!--END_SECTION:waka-->
 
 ---
