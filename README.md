@@ -132,7 +132,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 682 Contributions in the Year 2026
+> 🏆 685 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -182,11 +182,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
@@ -196,7 +196,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 03:46:16 UTC
+ Last Updated on 04/07/2026 03:38:35 UTC
 <!--END_SECTION:waka-->
 
 ---
