@@ -124,7 +124,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -167,26 +167,26 @@ Sunday                   69 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Dart                     10 hrs 54 mins      ███████████░░░░░░░░░░░░░░   43.22 % 
-Markdown                 6 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Python                   3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-TypeScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Markdown                 7 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
+Dart                     7 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Python                   3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+TypeScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 17 mins      ██████████████████████░░░   88.25 % 
-Cursor                   2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Claude Code              20 hrs 8 mins       ██████████████████████░░░   86.93 % 
+Cursor                   2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+VS Code                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🐱‍💻 Projects: 
-MyMoney-13Aug2024-1July2015 hrs 57 mins      ████████████████░░░░░░░░░   63.17 % 
-SQL_Agent                5 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Slack-AI                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-alpha-peptide-labs       1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-terminals                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+MyMoney-13Aug2024-1July2012 hrs 13 mins      █████████████░░░░░░░░░░░░   52.74 % 
+SQL_Agent                5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Slack-AI                 4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+terminals                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Clarion-AI               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Windows                  25 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -206,7 +206,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2026 02:52:48 UTC
+ Last Updated on 15/07/2026 02:51:38 UTC
 <!--END_SECTION:waka-->
 
 ---
