@@ -167,26 +167,26 @@ Sunday                   69 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 8 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
-Dart                     7 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
-Python                   3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Markdown                 6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Dart                     6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+TeX                      3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Python                   2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Bash                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 15 mins      █████████████████████░░░░   85.61 % 
-Cursor                   2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-VS Code                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Claude Code              21 hrs 25 mins      ██████████████████████░░░   88.66 % 
+VS Code                  2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Cursor                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🐱‍💻 Projects: 
-MyMoney-13Aug2024-1July2012 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.16 % 
-SQL_Agent                7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
-Slack-AI                 4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-terminals                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+SQL_Agent                10 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.72 % 
+MyMoney-13Aug2024-1July2010 hrs 26 mins      ███████████░░░░░░░░░░░░░░   43.19 % 
+Slack-AI                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+terminals                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  24 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -206,7 +206,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 03:15:27 UTC
+ Last Updated on 18/07/2026 02:53:02 UTC
 <!--END_SECTION:waka-->
 
 ---
