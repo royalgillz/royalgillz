@@ -167,26 +167,26 @@ Sunday                   69 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Dart                     6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-TeX                      3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Python                   2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Bash                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+TeX                      3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Markdown                 3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Bash                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Python                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 25 mins      ██████████████████████░░░   88.66 % 
-VS Code                  2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Cursor                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Claude Code              11 hrs 10 mins      █████████████████████░░░░   84.10 % 
+VS Code                  1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                10 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.72 % 
-MyMoney-13Aug2024-1July2010 hrs 26 mins      ███████████░░░░░░░░░░░░░░   43.19 % 
-Slack-AI                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-terminals                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+SQL_Agent                9 hrs 21 mins       ██████████████████░░░░░░░   70.44 % 
+Slack-AI                 2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+MyMoney-13Aug2024-1July2046 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+docs                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  24 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -206,7 +206,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 02:53:02 UTC
+ Last Updated on 19/07/2026 03:23:46 UTC
 <!--END_SECTION:waka-->
 
 ---
