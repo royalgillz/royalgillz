@@ -124,7 +124,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -143,21 +143,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                69 commits          █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-🌆 Daytime                124 commits         ██████████░░░░░░░░░░░░░░░   38.04 % 
-🌃 Evening                89 commits          ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+🌞 Morning                71 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+🌆 Daytime                133 commits         ██████████░░░░░░░░░░░░░░░   39.47 % 
+🌃 Evening                89 commits          ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Friday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Saturday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Sunday                   69 commits          █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Saturday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Sunday                   80 commits          ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
 ```
 
 
@@ -167,26 +167,25 @@ Sunday                   69 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-Markdown                 3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Bash                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Python                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+TeX                      3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Markdown                 3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Python                   2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Bash                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Git                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 10 mins      █████████████████████░░░░   84.10 % 
-VS Code                  1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Claude Code              12 hrs 41 mins      ██████████████████████░░░   86.13 % 
+VS Code                  1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                9 hrs 21 mins       ██████████████████░░░░░░░   70.44 % 
-Slack-AI                 2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-MyMoney-13Aug2024-1July2046 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-docs                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+SQL_Agent                11 hrs 33 mins      ████████████████████░░░░░   78.53 % 
+Slack-AI                 2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+docs                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  13 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -206,7 +205,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 03:23:46 UTC
+ Last Updated on 20/07/2026 03:37:53 UTC
 <!--END_SECTION:waka-->
 
 ---
