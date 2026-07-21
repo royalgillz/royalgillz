@@ -143,21 +143,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                71 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-🌆 Daytime                133 commits         ██████████░░░░░░░░░░░░░░░   39.47 % 
-🌃 Evening                89 commits          ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+🌞 Morning                71 commits          █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌆 Daytime                133 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌃 Evening                92 commits          ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Sunday                   80 commits          ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Saturday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Sunday                   83 commits          ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
 ```
 
 
@@ -167,25 +167,26 @@ Sunday                   80 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Markdown                 3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Python                   2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Bash                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Git                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+TeX                      3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+TypeScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Bash                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 41 mins      ██████████████████████░░░   86.13 % 
-VS Code                  1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Claude Code              10 hrs 33 mins      ████████████████░░░░░░░░░   64.26 % 
+VS Code                  5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                11 hrs 33 mins      ████████████████████░░░░░   78.53 % 
-Slack-AI                 2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-docs                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+SQL_Agent                9 hrs 22 mins       ██████████████░░░░░░░░░░░   57.06 % 
+Slack-AI                 2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Lumen                    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Union-Loan               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 💻 Operating System: 
-Windows                  14 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -205,7 +206,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2026 03:37:53 UTC
+ Last Updated on 21/07/2026 03:18:39 UTC
 <!--END_SECTION:waka-->
 
 ---
