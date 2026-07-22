@@ -124,7 +124,7 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -132,7 +132,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 723 Contributions in the Year 2026
+> 🏆 732 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -143,21 +143,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                71 commits          █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-🌆 Daytime                133 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
-🌃 Evening                92 commits          ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+🌞 Morning                69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+🌆 Daytime                140 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌃 Evening                87 commits          ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Saturday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Sunday                   83 commits          ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Sunday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 ```
 
 
@@ -167,26 +167,26 @@ Sunday                   83 commits          ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-TeX                      3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-TypeScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Bash                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+TeX                      3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Bash                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 33 mins      ████████████████░░░░░░░░░   64.26 % 
-VS Code                  5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Claude Code              7 hrs 37 mins       ███████████████░░░░░░░░░░   58.23 % 
+VS Code                  5 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                9 hrs 22 mins       ██████████████░░░░░░░░░░░   57.06 % 
-Slack-AI                 2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Lumen                    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Union-Loan               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+SQL_Agent                8 hrs 43 mins       █████████████████░░░░░░░░   66.68 % 
+Lumen                    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Union-Loan               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+docs                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  16 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -206,7 +206,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 03:18:39 UTC
+ Last Updated on 22/07/2026 03:16:44 UTC
 <!--END_SECTION:waka-->
 
 ---
