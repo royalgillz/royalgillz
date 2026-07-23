@@ -167,26 +167,25 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Bash                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+TeX                      2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Kotlin                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Markdown                 1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 37 mins       ███████████████░░░░░░░░░░   58.23 % 
-VS Code                  5 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+VS Code                  7 hrs 24 mins       ██████████████░░░░░░░░░░░   56.75 % 
+Claude Code              5 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                8 hrs 43 mins       █████████████████░░░░░░░░   66.68 % 
-Lumen                    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Union-Loan               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-docs                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+SQL_Agent                6 hrs               ████████████░░░░░░░░░░░░░   46.02 % 
+Lumen                    4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Union-Loan               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+mason-enterprise-jobs    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
-Windows                  13 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -206,7 +205,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 03:16:44 UTC
+ Last Updated on 23/07/2026 03:23:04 UTC
 <!--END_SECTION:waka-->
 
 ---
