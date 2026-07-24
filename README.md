@@ -124,8 +124,6 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2023%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -167,25 +165,25 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Kotlin                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Markdown                 1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Kotlin                   2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+Markdown                 2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+TypeScript               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 24 mins       ██████████████░░░░░░░░░░░   56.75 % 
-Claude Code              5 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
+VS Code                  8 hrs 49 mins       ██████████████████████░░░   86.95 % 
+Claude Code              1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                6 hrs               ████████████░░░░░░░░░░░░░   46.02 % 
-Lumen                    4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
-Union-Loan               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-mason-enterprise-jobs    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Lumen                    4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.18 % 
+mason-enterprise-jobs    1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+SQL_Agent                1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Union-Loan               1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 💻 Operating System: 
-Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -205,7 +203,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 03:23:04 UTC
+ Last Updated on 24/07/2026 03:17:15 UTC
 <!--END_SECTION:waka-->
 
 ---
