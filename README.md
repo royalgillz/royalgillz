@@ -124,38 +124,40 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2030%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 732 Contributions in the Year 2026
+> 🏆 751 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-🌆 Daytime                140 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
-🌃 Evening                87 commits          ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+🌞 Morning                69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+🌆 Daytime                151 commits         ███████████░░░░░░░░░░░░░░   42.18 % 
+🌃 Evening                94 commits          ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Sunday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Saturday                 68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Sunday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 ```
 
 
@@ -165,35 +167,34 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Markdown                 2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-TypeScript               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Kotlin                   2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Markdown                 1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+TypeScript               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 49 mins       ██████████████████████░░░   86.95 % 
-Claude Code              1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+VS Code                  8 hrs 39 mins       ██████████████████████░░░   89.61 % 
+Claude Code              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🐱‍💻 Projects: 
-Lumen                    4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.18 % 
-mason-enterprise-jobs    1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-SQL_Agent                1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Union-Loan               1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-LUCID-care-manager-eval  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Lumen                    4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.35 % 
+mason-enterprise-jobs    1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+SQL_Agent                1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Union-Loan               1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
 
 💻 Operating System: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -203,7 +204,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:15:57 UTC
+ Last Updated on 26/07/2026 03:29:16 UTC
 <!--END_SECTION:waka-->
 
 ---
