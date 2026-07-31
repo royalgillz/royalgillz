@@ -169,48 +169,46 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-Markdown                 1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Python                   41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-TeX                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+TypeScript               1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.74 % 
+Markdown                 57 mins             ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 16 mins       █████████████░░░░░░░░░░░░   53.84 % 
-VS Code                  2 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.16 % 
+Claude Code              2 hrs 20 mins       ███████████████████░░░░░░   77.98 % 
+VS Code                  39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
 
 🐱‍💻 Projects: 
-ClearLane                2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.06 % 
-SQL_Agent                1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-mason-enterprise-jobs    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+ClearLane                2 hrs 59 mins       █████████████████████████   99.68 % 
+SQL_Agent                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 59 mins (98.52%)
+⏱ AI Coding Time: 2 hrs 55 mins (97.42%)
 
-✍️ 6,179 lines written by AI, 9 lines written by hand (99.85% AI-written)
+✍️ 5,169 lines written by AI, 9 lines written by hand (99.83% AI-written)
 
-🔤 90,217,323 Input Tokens, 518,183 Output Tokens
+🔤 59,123,119 Input Tokens, 310,959 Output Tokens
 
-💵 $432.18 Estimated AI Cost This Week
+💵 $333.62 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 39 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
 
-Opus                     5,555 lines         ████████████████████░░░░░   80.17 % 
-Fable                    1,374 lines         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     5,397 lines         ██████████████████████░░░   89.67 % 
+Fable                    622 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 3,113 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 5,863 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -230,7 +228,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:45:55 UTC
+ Last Updated on 31/07/2026 03:29:01 UTC
 <!--END_SECTION:waka-->
 
 ---
