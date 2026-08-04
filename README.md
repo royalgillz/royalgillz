@@ -169,22 +169,45 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      28 mins             ████████████░░░░░░░░░░░░░   46.54 % 
+Other                    13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Mermaid                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              55 mins             ██████████████████████░░░   89.38 % 
+VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SQL_Agent                1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr (97.56%)
+
+✍️ 782 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 26,410,147 Input Tokens, 90,412 Output Tokens
+
+💵 $177.03 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+Opus                     844 lines           ██████████████░░░░░░░░░░░   57.57 % 
+Fable                    622 lines           ███████████░░░░░░░░░░░░░░   42.43 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,774 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 5.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -204,7 +227,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 03:29:28 UTC
+ Last Updated on 04/08/2026 02:57:36 UTC
 <!--END_SECTION:waka-->
 
 ---
