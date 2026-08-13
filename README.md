@@ -145,21 +145,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-🌆 Daytime                151 commits         ███████████░░░░░░░░░░░░░░   42.18 % 
-🌃 Evening                94 commits          ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+🌞 Morning                71 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+🌆 Daytime                153 commits         ███████████░░░░░░░░░░░░░░   42.27 % 
+🌃 Evening                94 commits          ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Saturday                 68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Sunday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Wednesday                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Saturday                 68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Sunday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 ```
 
 
@@ -169,44 +169,46 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      4 hrs 18 mins       █████████████████░░░░░░░░   69.70 % 
-BibTeX                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+TeX                      4 hrs 18 mins       ███████████████░░░░░░░░░░   61.89 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+BibTeX                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Kotlin                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 43 mins       ███████████████████████░░   92.81 % 
-VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Claude Code              6 hrs 29 mins       ███████████████████████░░   93.32 % 
+VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                6 hrs 10 mins       █████████████████████████   100.00 % 
+SQL_Agent                6 hrs 10 mins       ██████████████████████░░░   88.79 % 
+Lumen                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 
 💻 Operating System: 
-Windows                  6 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs (97.29%)
+⏱ AI Coding Time: 6 hrs 47 mins (97.59%)
 
-✍️ 1,490 lines written by AI, 135 lines written by hand (91.69% AI-written)
+✍️ 2,358 lines written by AI, 135 lines written by hand (94.58% AI-written)
 
-🔤 130,584,168 Input Tokens, 536,926 Output Tokens
+🔤 130,819,905 Input Tokens, 598,161 Output Tokens
 
-💵 $666.66 Estimated AI Cost This Week
+💵 $675.98 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 41 AI Prompts
+🧠 5 AI Sessions, 54 AI Prompts
 
-Opus                     1,550 lines         █████████████████████████   100.00 % 
+Opus                     1,550 lines         ████████████████░░░░░░░░░   64.10 % 
+Fable                    868 lines           █████████░░░░░░░░░░░░░░░░   35.90 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.69% of written lines came from AI
-📄 Detailed Prompter — average 840 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 12.63% of changed lines were hand-edited
+🤖 AI-Driven — 94.58% of written lines came from AI
+📄 Detailed Prompter — average 1,111 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 8.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +228,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 02:21:50 UTC
+ Last Updated on 13/08/2026 02:23:47 UTC
 <!--END_SECTION:waka-->
 
 ---
