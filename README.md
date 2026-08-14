@@ -124,9 +124,9 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-309%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,46 +169,45 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      4 hrs 18 mins       ███████████████░░░░░░░░░░   61.89 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-BibTeX                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Kotlin                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Kotlin                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   33.15 % 
+TeX                      1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 29 mins       ███████████████████████░░   93.32 % 
-VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Claude Code              5 hrs 34 mins       ████████████████████████░   95.42 % 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🐱‍💻 Projects: 
-SQL_Agent                6 hrs 10 mins       ██████████████████████░░░   88.79 % 
-Lumen                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Lumen                    3 hrs 9 mins        █████████████░░░░░░░░░░░░   53.90 % 
+SQL_Agent                2 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.10 % 
 
 💻 Operating System: 
-Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 47 mins (97.59%)
+⏱ AI Coding Time: 5 hrs 44 mins (98.25%)
 
-✍️ 2,358 lines written by AI, 135 lines written by hand (94.58% AI-written)
+✍️ 3,498 lines written by AI, 131 lines written by hand (96.39% AI-written)
 
-🔤 130,819,905 Input Tokens, 598,161 Output Tokens
+🔤 70,154,824 Input Tokens, 539,192 Output Tokens
 
-💵 $675.98 Estimated AI Cost This Week
+💵 $483.91 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 54 AI Prompts
+🧠 4 AI Sessions, 48 AI Prompts
 
-Opus                     1,550 lines         ████████████████░░░░░░░░░   64.10 % 
-Fable                    868 lines           █████████░░░░░░░░░░░░░░░░   35.90 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    2,469 lines         █████████████████░░░░░░░░   67.74 % 
+Opus                     1,176 lines         ████████░░░░░░░░░░░░░░░░░   32.26 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.58% of written lines came from AI
-📄 Detailed Prompter — average 1,111 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 8.48% of changed lines were hand-edited
+🤖 AI-Driven — 96.39% of written lines came from AI
+📄 Detailed Prompter — average 801 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 3.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -228,7 +227,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 02:23:47 UTC
+ Last Updated on 14/08/2026 02:22:20 UTC
 <!--END_SECTION:waka-->
 
 ---
