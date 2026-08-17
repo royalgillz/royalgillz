@@ -169,44 +169,41 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   1 hr 56 mins        ██████████████░░░░░░░░░░░   56.94 % 
-Markdown                 1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   34.00 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Kotlin                   1 hr 56 mins        ███████████████░░░░░░░░░░   61.51 % 
+Markdown                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.73 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 23 mins       █████████████████████████   99.58 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Claude Code              3 hrs 8 mins        █████████████████████████   99.62 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-Lumen                    3 hrs 9 mins        ███████████████████████░░   92.57 % 
-SQL_Agent                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Lumen                    3 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 9 mins (100.0%)
 
-✍️ 2,980 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,370 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 772,784 Input Tokens, 310,707 Output Tokens
+🔤 667,024 Input Tokens, 250,159 Output Tokens
 
-💵 $142.41 Estimated AI Cost This Week
+💵 $139.96 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 29 AI Prompts
+🧠 2 AI Sessions, 24 AI Prompts
 
-Fable                    2,469 lines         ████████████████████░░░░░   79.26 % 
-Opus                     646 lines           █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Fable                    2,469 lines         █████████████████████████   98.56 % 
+Opus                     36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 998 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 1,073 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -227,7 +224,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 01:40:46 UTC
+ Last Updated on 17/08/2026 01:39:13 UTC
 <!--END_SECTION:waka-->
 
 ---
