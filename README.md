@@ -169,41 +169,38 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   1 hr 56 mins        ███████████████░░░░░░░░░░   61.51 % 
-Markdown                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.73 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Kotlin                   1 hr 37 mins        █████████████████░░░░░░░░   68.43 % 
+Markdown                 44 mins             ████████░░░░░░░░░░░░░░░░░   31.57 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 8 mins        █████████████████████████   99.62 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Claude Code              2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Lumen                    3 hrs 9 mins        █████████████████████████   100.00 % 
+Lumen                    2 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 9 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 22 mins (100.0%)
 
-✍️ 2,370 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,502 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 667,024 Input Tokens, 250,159 Output Tokens
+🔤 431,287 Input Tokens, 188,924 Output Tokens
 
-💵 $139.96 Estimated AI Cost This Week
+💵 $73.18 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 24 AI Prompts
+🧠 1 AI Sessions, 11 AI Prompts
 
-Fable                    2,469 lines         █████████████████████████   98.56 % 
-Opus                     36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Fable                    1,601 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,073 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 16 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -224,7 +221,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 01:36:12 UTC
+ Last Updated on 20/08/2026 01:34:54 UTC
 <!--END_SECTION:waka-->
 
 ---
