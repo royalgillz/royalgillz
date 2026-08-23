@@ -124,9 +124,9 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-316%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-320%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,44 +169,44 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.10 % 
-Markdown                 2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-TeX                      1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Kotlin                   4 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.53 % 
+Markdown                 2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+TeX                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+HTML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 4 mins        ██████████████████████░░░   86.16 % 
-VS Code                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Claude Code              7 hrs 42 mins       ██████████████████████░░░   87.15 % 
+VS Code                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
 
 🐱‍💻 Projects: 
-Lumen                    6 hrs 23 mins       ███████████████████░░░░░░   77.95 % 
-SQL_Agent                1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Lumen                    7 hrs 1 min         ████████████████████░░░░░   79.53 % 
+SQL_Agent                1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
 
 💻 Operating System: 
-Windows                  8 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 38 mins (93.06%)
+⏱ AI Coding Time: 8 hrs 16 mins (93.55%)
 
-✍️ 3,456 lines written by AI, 26 lines written by hand (99.25% AI-written)
+✍️ 3,486 lines written by AI, 26 lines written by hand (99.26% AI-written)
 
-🔤 1,817,319 Input Tokens, 622,046 Output Tokens
+🔤 2,606,698 Input Tokens, 690,820 Output Tokens
 
-💵 $197.86 Estimated AI Cost This Week
+💵 $228.16 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 56 AI Prompts
+🧠 6 AI Sessions, 59 AI Prompts
 
-Fable                    3,705 lines         █████████████████████████   100.00 % 
+Fable                    3,735 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.25% of written lines came from AI
-📄 Detailed Prompter — average 1,223 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+🤖 AI-Driven — 99.26% of written lines came from AI
+📄 Detailed Prompter — average 1,167 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 1.09% of changed lines were hand-edited
 ```
 
@@ -227,7 +227,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 01:28:33 UTC
+ Last Updated on 23/08/2026 01:42:48 UTC
 <!--END_SECTION:waka-->
 
 ---
