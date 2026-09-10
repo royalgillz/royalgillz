@@ -124,9 +124,9 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,48 +169,50 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.91 % 
-Kotlin                   1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-Python                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-BibTeX                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Python                   3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.17 % 
+Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Kotlin                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+BibTeX                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 29 mins       ███████████████████████░░   93.25 % 
-VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Claude Code              7 hrs 48 mins       ████████████████████████░   94.40 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🐱‍💻 Projects: 
-Lumen                    2 hrs 59 mins       █████████████░░░░░░░░░░░░   50.78 % 
-Portfolio-Scraper        2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.66 % 
-SQL_Agent                40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-alpha-peptide-labs       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Portfolio-Scraper        5 hrs 26 mins       ████████████████░░░░░░░░░   65.72 % 
+Lumen                    2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+SQL_Agent                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+alpha-peptide-labs       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+store                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  5 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 49 mins (98.95%)
+⏱ AI Coding Time: 8 hrs 16 mins (99.92%)
 
-✍️ 10,277 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 16,315 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,015,051 Input Tokens, 544,030 Output Tokens
+🔤 5,424,013 Input Tokens, 825,192 Output Tokens
 
-💵 $248.49 Estimated AI Cost This Week
+💵 $249.22 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 63 AI Prompts
+🧠 12 AI Sessions, 72 AI Prompts
 
-Opus                     7,604 lines         ██████████████████░░░░░░░   73.95 % 
-Fable                    2,679 lines         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Fable                    9,817 lines         ███████████████░░░░░░░░░░   59.44 % 
+Opus                     6,698 lines         ██████████░░░░░░░░░░░░░░░   40.56 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 3,109 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,511 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -230,7 +232,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 04:03:48 UTC
+ Last Updated on 10/09/2026 04:02:05 UTC
 <!--END_SECTION:waka-->
 
 ---
