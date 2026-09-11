@@ -124,9 +124,9 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,49 +169,48 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.17 % 
-Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Kotlin                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-BibTeX                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Python                   3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.13 % 
+Markdown                 2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Kotlin                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+BibTeX                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 48 mins       ████████████████████████░   94.40 % 
-VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Claude Code              8 hrs 59 mins       ███████████████████████░░   92.97 % 
+VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 🐱‍💻 Projects: 
-Portfolio-Scraper        5 hrs 26 mins       ████████████████░░░░░░░░░   65.72 % 
-Lumen                    2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-SQL_Agent                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-alpha-peptide-labs       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-store                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Portfolio-Scraper        6 hrs 47 mins       ██████████████████░░░░░░░   70.28 % 
+Lumen                    1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+SQL_Agent                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+alpha-peptide-labs       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  8 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 16 mins (99.92%)
+⏱ AI Coding Time: 9 hrs 35 mins (99.18%)
 
-✍️ 16,315 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16,841 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,424,013 Input Tokens, 825,192 Output Tokens
+🔤 7,264,642 Input Tokens, 972,255 Output Tokens
 
-💵 $249.22 Estimated AI Cost This Week
+💵 $270.33 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 72 AI Prompts
+🧠 12 AI Sessions, 79 AI Prompts
 
-Fable                    9,817 lines         ███████████████░░░░░░░░░░   59.44 % 
-Opus                     6,698 lines         ██████████░░░░░░░░░░░░░░░   40.56 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    10,819 lines        ████████████████░░░░░░░░░   64.22 % 
+Opus                     6,028 lines         █████████░░░░░░░░░░░░░░░░   35.78 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,511 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 2,752 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -232,7 +231,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 04:02:05 UTC
+ Last Updated on 11/09/2026 03:59:07 UTC
 <!--END_SECTION:waka-->
 
 ---
