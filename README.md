@@ -169,48 +169,48 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.13 % 
-Markdown                 2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Kotlin                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-BibTeX                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Python                   3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
+Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+BibTeX                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 59 mins       ███████████████████████░░   92.97 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Claude Code              7 hrs 18 mins       ███████████████████████░░   93.09 % 
+VS Code                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 🐱‍💻 Projects: 
-Portfolio-Scraper        6 hrs 47 mins       ██████████████████░░░░░░░   70.28 % 
-Lumen                    1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-SQL_Agent                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-alpha-peptide-labs       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Portfolio-Scraper        6 hrs 37 mins       █████████████████████░░░░   84.37 % 
+SQL_Agent                47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Lumen                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 35 mins (99.18%)
+⏱ AI Coding Time: 7 hrs 47 mins (99.17%)
 
-✍️ 16,841 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,339 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,264,642 Input Tokens, 972,255 Output Tokens
+🔤 7,101,128 Input Tokens, 907,398 Output Tokens
 
-💵 $270.33 Estimated AI Cost This Week
+💵 $187.01 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 79 AI Prompts
+🧠 9 AI Sessions, 50 AI Prompts
 
-Fable                    10,819 lines        ████████████████░░░░░░░░░   64.22 % 
-Opus                     6,028 lines         █████████░░░░░░░░░░░░░░░░   35.78 % 
+Fable                    8,605 lines         █████████████████████░░░░   83.20 % 
+Opus                     1,737 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,752 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 3,410 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -231,7 +231,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 03:59:07 UTC
+ Last Updated on 12/09/2026 04:01:04 UTC
 <!--END_SECTION:waka-->
 
 ---
