@@ -126,7 +126,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,39 +169,39 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.41 % 
-Markdown                 1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Other                    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-BibTeX                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Python                   3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.97 % 
+Other                    1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Markdown                 1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+BibTeX                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 2 mins        ███████████████████████░░   92.14 % 
-VS Code                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Claude Code              7 hrs 17 mins       ███████████████████████░░   91.93 % 
+VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🐱‍💻 Projects: 
-Portfolio-Scraper        6 hrs 50 mins       ██████████████████████░░░   89.50 % 
-SQL_Agent                47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Portfolio-Scraper        7 hrs 7 mins        ██████████████████████░░░   89.87 % 
+SQL_Agent                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 store                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 35 mins (99.4%)
+⏱ AI Coding Time: 7 hrs 52 mins (99.42%)
 
 ✍️ 9,116 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,038,564 Input Tokens, 944,737 Output Tokens
+🔤 7,153,608 Input Tokens, 956,901 Output Tokens
 
-💵 $155.72 Estimated AI Cost This Week
+💵 $157.91 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 48 AI Prompts
+🧠 9 AI Sessions, 50 AI Prompts
 
 Fable                    8,442 lines         ███████████████████████░░   92.58 % 
 Opus                     677 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
@@ -209,7 +209,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,544 characters per prompt
+📚 Verbose Prompter — average 3,402 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -231,7 +231,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 05:16:27 UTC
+ Last Updated on 14/09/2026 04:18:55 UTC
 <!--END_SECTION:waka-->
 
 ---
