@@ -169,37 +169,34 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 46 mins        ████████████████░░░░░░░░░   63.74 % 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Other                    1 hr 29 mins        ████████████████████████░   98.00 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 29 mins       ██████████████████████░░░   89.62 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Claude Code              1 hr 23 mins        ███████████████████████░░   91.36 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🐱‍💻 Projects: 
-Portfolio-Scraper        2 hrs 46 mins       █████████████████████████   100.00 % 
+Portfolio-Scraper        1 hr 31 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 1 hr 31 mins (100.0%)
 
-✍️ 778 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 87 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,452,278 Input Tokens, 509,628 Output Tokens
+🔤 3,387,233 Input Tokens, 385,046 Output Tokens
 
-💵 $98.19 Estimated AI Cost This Week
+💵 $66.35 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
-Fable                    1,083 lines         █████████████████████████   100.00 % 
+Fable                    392 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -226,7 +223,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 04:21:36 UTC
+ Last Updated on 18/09/2026 04:05:07 UTC
 <!--END_SECTION:waka-->
 
 ---
