@@ -169,40 +169,40 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 29 mins        ████████████████████████░   98.00 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other                    48 mins             ████████████████████████░   96.39 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Claude Code              1 hr 23 mins        ███████████████████████░░   91.36 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Claude Code              44 mins             ██████████████████████░░░   87.59 % 
+VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 
 🐱‍💻 Projects: 
-Portfolio-Scraper        1 hr 31 mins        █████████████████████████   100.00 % 
+Portfolio-Scraper        50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (100.0%)
+⏱ AI Coding Time: 50 mins (100.0%)
 
 ✍️ 87 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,387,233 Input Tokens, 385,046 Output Tokens
+🔤 825,450 Input Tokens, 141,025 Output Tokens
 
-💵 $66.35 Estimated AI Cost This Week
+💵 $32.29 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Fable                    392 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 9 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 7 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -223,7 +223,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 04:05:07 UTC
+ Last Updated on 19/09/2026 04:01:59 UTC
 <!--END_SECTION:waka-->
 
 ---
