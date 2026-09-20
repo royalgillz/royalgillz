@@ -169,41 +169,40 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    48 mins             ████████████████████████░   96.39 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Other                    16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              44 mins             ██████████████████████░░░   87.59 % 
-VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Claude Code              15 mins             ███████████████████████░░   90.37 % 
+VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🐱‍💻 Projects: 
-Portfolio-Scraper        50 mins             █████████████████████████   100.00 % 
+Portfolio-Scraper        16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (100.0%)
+⏱ AI Coding Time: 16 mins (100.0%)
 
-✍️ 87 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 825,450 Input Tokens, 141,025 Output Tokens
+🔤 115,044 Input Tokens, 12,164 Output Tokens
 
-💵 $32.29 Estimated AI Cost This Week
+💵 $15.36 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Fable                    392 lines           █████████████████████████   100.00 % 
+Fable                    305 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 7 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -223,7 +222,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 04:01:59 UTC
+ Last Updated on 20/09/2026 04:21:19 UTC
 <!--END_SECTION:waka-->
 
 ---
