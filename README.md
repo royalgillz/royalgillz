@@ -169,40 +169,22 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              15 mins             ███████████████████████░░   90.37 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Claude Code              0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-Scraper        16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 115,044 Input Tokens, 12,164 Output Tokens
-
-💵 $15.36 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Fable                    305 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 7 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -222,7 +204,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 04:21:19 UTC
+ Last Updated on 21/09/2026 04:18:45 UTC
 <!--END_SECTION:waka-->
 
 ---
