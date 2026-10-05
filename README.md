@@ -124,9 +124,9 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-345%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -134,7 +134,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 766 Contributions in the Year 2026
+> 🏆 769 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -169,22 +169,47 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.16 % 
+Markdown                 3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
+Other                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-Claude Code              0 secs              █████████████████████████   100.00 % 
+Claude Code              10 hrs 33 mins      ████████████████████████░   96.56 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Portfolio-Scraper        5 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.75 % 
+Unissant_AgenticMesh     4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+bsw-pm                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Sehaj-Gill-Portfolio     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 hrs 51 mins (99.34%)
+
+✍️ 16,902 lines written by AI, 494 lines written by hand (97.16% AI-written)
+
+🔤 26,754,024 Input Tokens, 988,653 Output Tokens
+
+💵 $277.58 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 49 AI Prompts
+
+Opus                     17,200 lines        █████████████████████████   98.26 % 
+Fable                    305 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.16% of written lines came from AI
+📚 Verbose Prompter — average 5,820 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 2.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -204,7 +229,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 05:15:19 UTC
+ Last Updated on 05/10/2026 04:59:01 UTC
 <!--END_SECTION:waka-->
 
 ---
