@@ -124,9 +124,9 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-353%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-358%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,48 +169,47 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   7 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.87 % 
-Markdown                 7 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.49 % 
-Other                    2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Markdown                 19 hrs 30 mins      ███████████░░░░░░░░░░░░░░   44.55 % 
+Python                   16 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   37.49 % 
+JSON                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Bash                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 15 mins      ████████████████████████░   97.01 % 
-VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Claude Code              43 hrs 10 mins      █████████████████████████   98.58 % 
+VS Code                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-Unissant_AgenticMesh     6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
-Portfolio-Scraper        5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-QA-Test                  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-SQL_Agent                2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-bsw-pm                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Portfolio-Scraper        11 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+Unissant_AgenticMesh     10 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+QA-Test                  9 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+SQL_Agent                7 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+mason-enterprise-jobs    1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 Operating System: 
-Windows                  18 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 35 mins (98.78%)
+⏱ AI Coding Time: 43 hrs 18 mins (98.89%)
 
-✍️ 21,822 lines written by AI, 494 lines written by hand (97.79% AI-written)
+✍️ 22,909 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 41,068,014 Input Tokens, 1,626,897 Output Tokens
+🔤 72,908,132 Input Tokens, 4,837,918 Output Tokens
 
-💵 $426.76 Estimated AI Cost This Week
+💵 $782.85 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 81 AI Prompts
+🧠 17 AI Sessions, 190 AI Prompts
 
-Opus                     22,122 lines        █████████████████████████   98.64 % 
-Fable                    305 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Opus                     22,970 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.79% of written lines came from AI
-📚 Verbose Prompter — average 4,856 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.19% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,757 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -230,7 +229,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 05:20:23 UTC
+ Last Updated on 13/10/2026 06:18:56 UTC
 <!--END_SECTION:waka-->
 
 ---
