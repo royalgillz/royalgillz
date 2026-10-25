@@ -124,9 +124,9 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-402%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-411%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,47 +169,47 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   20 hrs 6 mins       █████████████░░░░░░░░░░░░   51.36 % 
-TypeScript               8 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Markdown                 5 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-TeX                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Python                   8 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Other                    7 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+TypeScript               7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Markdown                 6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+TeX                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Claude Code              38 hrs 31 mins      █████████████████████████   98.43 % 
-VS Code                  36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Claude Code              32 hrs 45 mins      ████████████████████████░   97.84 % 
+VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-Unissant_AgenticMesh     30 hrs 24 mins      ███████████████████░░░░░░   77.70 % 
-Portfolio-Scraper        4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Union-Loan               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-SQL_Agent                1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-bsw-pm                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Unissant_AgenticMesh     25 hrs              ███████████████████░░░░░░   74.68 % 
+Portfolio-Scraper        3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+SQL_Agent                3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Union-Loan               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+bsw-pm                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  39 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  33 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 38 mins (98.72%)
+⏱ AI Coding Time: 32 hrs 56 mins (98.38%)
 
-✍️ 24,837 lines written by AI, 8 lines written by hand (99.97% AI-written)
+✍️ 25,725 lines written by AI, 8 lines written by hand (99.97% AI-written)
 
-🔤 57,812,603 Input Tokens, 5,411,519 Output Tokens
+🔤 39,687,896 Input Tokens, 3,146,533 Output Tokens
 
-💵 $728.64 Estimated AI Cost This Week
+💵 $528.52 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 136 AI Prompts
+🧠 14 AI Sessions, 154 AI Prompts
 
-Opus                     25,359 lines        █████████████████████████   100.00 % 
+Opus                     25,994 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 3,740 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+📚 Verbose Prompter — average 3,928 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -229,7 +229,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 04:03:04 UTC
+ Last Updated on 25/10/2026 04:04:12 UTC
 <!--END_SECTION:waka-->
 
 ---
