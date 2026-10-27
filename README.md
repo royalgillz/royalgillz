@@ -169,47 +169,47 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    7 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.90 % 
-Markdown                 3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Python                   3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-TypeScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-TeX                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other                    7 hrs 10 mins       █████████████░░░░░░░░░░░░   53.23 % 
+Markdown                 3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+TypeScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 26 mins      ████████████████████████░   96.97 % 
-VS Code                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Claude Code              13 hrs 12 mins      █████████████████████████   98.01 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🐱‍💻 Projects: 
-Unissant_AgenticMesh     12 hrs 11 mins      █████████████████░░░░░░░░   67.82 % 
-SQL_Agent                2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Union-Loan               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Portfolio-Scraper        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-bsw-pm                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Unissant_AgenticMesh     8 hrs 36 mins       ████████████████░░░░░░░░░   63.91 % 
+Union-Loan               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Portfolio-Scraper        1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+SQL_Agent                1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+bsw-pm                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Windows                  17 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 36 mins (97.92%)
+⏱ AI Coding Time: 13 hrs 18 mins (98.72%)
 
-✍️ 10,906 lines written by AI, 6 lines written by hand (99.95% AI-written)
+✍️ 5,169 lines written by AI, 4 lines written by hand (99.92% AI-written)
 
-🔤 21,092,641 Input Tokens, 1,937,639 Output Tokens
+🔤 16,154,602 Input Tokens, 1,573,326 Output Tokens
 
-💵 $308.41 Estimated AI Cost This Week
+💵 $235.28 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 105 AI Prompts
+🧠 8 AI Sessions, 73 AI Prompts
 
-Opus                     10,980 lines        █████████████████████████   100.00 % 
+Opus                     5,208 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 2,756 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 2,048 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -229,7 +229,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 04:08:24 UTC
+ Last Updated on 27/10/2026 04:28:03 UTC
 <!--END_SECTION:waka-->
 
 ---
