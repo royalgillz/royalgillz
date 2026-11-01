@@ -124,9 +124,9 @@
 ## ⚡ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-411%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-413%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,44 +169,45 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    6 hrs 57 mins       ██████████████████░░░░░░░   70.59 % 
-Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-TypeScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-PowerQuery               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Markdown                 23 hrs 58 mins      ████████████████░░░░░░░░░   64.46 % 
+Python                   7 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+PowerShell               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 44 mins       █████████████████████████   98.89 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Claude Code              37 hrs 11 mins      █████████████████████████   99.99 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Unissant_AgenticMesh     8 hrs 30 mins       ██████████████████████░░░   86.37 % 
-SQL_Agent                1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Unissant_AgenticMesh     28 hrs 46 mins      ███████████████████░░░░░░   77.36 % 
+SQL_Agent                4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+CloudLabs                2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Portfolio-Scraper        1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 💻 Operating System: 
-Windows                  9 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  37 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 48 mins (99.57%)
+⏱ AI Coding Time: 37 hrs 11 mins (99.99%)
 
-✍️ 1,823 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,049 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 15,017,670 Input Tokens, 1,186,453 Output Tokens
+🔤 63,311,689 Input Tokens, 7,634,603 Output Tokens
 
-💵 $185.06 Estimated AI Cost This Week
+💵 $727.93 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 25 AI Prompts
+🧠 14 AI Sessions, 62 AI Prompts
 
-Opus                     1,831 lines         █████████████████████████   100.00 % 
+Opus                     9,391 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,858 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📚 Verbose Prompter — average 3,533 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -227,7 +228,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/royalgillz/royalgillz/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 04:55:57 UTC
+ Last Updated on 01/11/2026 05:24:27 UTC
 <!--END_SECTION:waka-->
 
 ---
